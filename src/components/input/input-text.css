@@ -1,0 +1,20 @@
+.input-box-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.input-box {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.input-button {
+    border-radius: 18px;
+    margin: 10px;
+    height: 36px;
+    width: 56px;
+    background-color: rgb(26, 105, 79);
+    text-align: center;
+    color: white
+}
